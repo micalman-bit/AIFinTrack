@@ -1,4 +1,4 @@
-rootProject.name = "AIFinTrack"
+rootProject.name = "KMP-App-Template-Native"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
@@ -28,5 +28,5 @@ dependencyResolutionManagement {
     }
 }
 
-include(":composeApp")
 include(":shared")
+include(":composeApp")
